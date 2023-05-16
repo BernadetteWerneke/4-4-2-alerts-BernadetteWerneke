@@ -1,10 +1,10 @@
 
 import Foundation
 
-class Student {
+class Student: ObservableObject {
     let name: String
     let age: Int
-    var feedback: String
+    @Published var feedback: String
     
     init(name: String, age: Int, feedback: String) {
         self.name = name
@@ -12,3 +12,4 @@ class Student {
         self.feedback = feedback
     }
 }
+

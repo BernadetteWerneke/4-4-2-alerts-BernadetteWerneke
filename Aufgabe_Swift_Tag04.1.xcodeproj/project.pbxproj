@@ -14,6 +14,7 @@
 		3593867729BA3C8A009D3553 /* Aufgabe_Swift_Tag04.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3593867629BA3C8A009D3553 /* Aufgabe_Swift_Tag04.1.swift */; };
 		3593867929BA3CE6009D3553 /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3593867829BA3CE6009D3553 /* ColorPickerView.swift */; };
 		359CCBDD29BA4ACF0088778B /* AmpelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 359CCBDC29BA4ACF0088778B /* AmpelView.swift */; };
+		4B7BFDBB2A139EE7009CBF6F /* StudentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7BFDBA2A139EE3009CBF6F /* StudentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3593867629BA3C8A009D3553 /* Aufgabe_Swift_Tag04.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aufgabe_Swift_Tag04.1.swift; sourceTree = "<group>"; };
 		3593867829BA3CE6009D3553 /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 		359CCBDC29BA4ACF0088778B /* AmpelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmpelView.swift; sourceTree = "<group>"; };
+		4B7BFDBA2A139EE3009CBF6F /* StudentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				3593867629BA3C8A009D3553 /* Aufgabe_Swift_Tag04.1.swift */,
 				3593867829BA3CE6009D3553 /* ColorPickerView.swift */,
 				359CCBDC29BA4ACF0088778B /* AmpelView.swift */,
+				4B7BFDBA2A139EE3009CBF6F /* StudentView.swift */,
 			);
 			path = Aufgabe_Swift_Tag04.1;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				359CCBDD29BA4ACF0088778B /* AmpelView.swift in Sources */,
 				3593865929BA3923009D3553 /* Student.swift in Sources */,
 				3593867729BA3C8A009D3553 /* Aufgabe_Swift_Tag04.1.swift in Sources */,
+				4B7BFDBB2A139EE7009CBF6F /* StudentView.swift in Sources */,
 				3593867929BA3CE6009D3553 /* ColorPickerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
